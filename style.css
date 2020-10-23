@@ -1,0 +1,92 @@
+body {
+    background: #d8d8d8;
+    font-family: sans-serif;
+    font-size: 100%;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: 0;
+}
+
+nav {
+    background-color: rgba(26, 26, 26, 0.9) !important;
+    border-top: 0.3rem solid #a166a7 !important;
+    position: sticky;
+    color: #ccc;
+    box-shadow: #ccc !important;
+
+}
+
+nav a {
+    color: #ccc;
+
+}
+
+
+nav a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+nav .viola {
+    color: #de8ae5;
+}
+
+nav .viola:hover {
+    color: #f7a4ff;
+}
+
+.logo {
+    width: 34px;
+    height: 34px;
+    filter: invert(100%);
+}
+
+.fa,
+.fas {
+    margin: 1vw
+}
+
+nav a span {
+    margin: 0
+}
+
+img {
+    width: auto;
+}
+
+.card-body {
+    background-color: white-smoke
+}
+
+.card-link {
+    color: rgb(107, 106, 106);
+    margin-right: -1.1rem;
+}
+
+.card-link:hover {
+    text-decoration: none;
+    color: rgb(177, 173, 173);
+}
+
+.card .badge {
+    background-color: #a166a7;
+    color: white;
+    text-decoration: none;
+}
+
+.card .badge:hover {
+    background-color: #bc8cc2;
+    ;
+}
+
+.weAre>a {
+    color: #a166a7;
+}
+
+.weAre>a:hover {
+    text-decoration: none;
+}
+
+.col-4>.weAre {
+    border-left: 1px solid grey
+}
